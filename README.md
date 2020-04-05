@@ -3,7 +3,7 @@ Itwill에서 진행했던 유자차 팀 프로젝트 **TsuTsugamushi Scanner**�
 * List(일단 계획)
   - ~~전처리용 함수 리스트~~
   - ~~이미지 크롤러~~
-  - ~~데이터셋 npy 변환 ~~
+  - ~~데이터셋 npy 변환~~
   - ~~서브클래스화한 cnn keras.ver update~~
   - cnn torch.ver update
   - resnet keras.ver update
