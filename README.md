@@ -6,7 +6,7 @@ Itwill에서 진행했던 유자차 팀 프로젝트 **TsuTsugamushi Scanner**�
   - ~~데이터셋 npy 변환~~
   - ~~서브클래스화한 cnn keras.ver update~~
   - cnn torch.ver update
-  - resnet keras.ver update
+  - ~~resnet keras.ver update~~
   - resnet torch.ver update
   - efficientNet keras.ver update
   - efficientNet torch.ver update
